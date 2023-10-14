@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: var(--dl-color-primary-bg);
+  background-color: rgba(194, 246, 242, 0.2);
 }
 .hunnakko-header {
   width: 100%;
