@@ -25,6 +25,7 @@
   --dl-color-primary-300: #183d3dff;
   --dl-color-primary-500: #5c8374ff;
   --dl-color-primary-700: #93b1a6ff;
+  --dl-color-primary-bg2: #152525ff;
   --dl-color-success-300: #199033;
   --dl-color-success-500: #32A94C;
   --dl-color-success-700: #4CC366;
@@ -39,6 +40,7 @@
   --dl-radius-radius-radius8: 8px;
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
+  --dl-color-primary-buttonbg: #3a6666ff;
   --dl-space-space-threeunits: 48px;
   --dl-space-space-oneandhalfunits: 24px;
 }

@@ -29,8 +29,12 @@
   justify-content: flex-start;
 }
 .feature-card2-text {
+  color: var(--dl-color-gray-white);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card2-text1 {
+  color: var(--dl-color-gray-white);
 }
 
 
